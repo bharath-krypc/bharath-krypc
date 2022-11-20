@@ -1,7 +1,7 @@
 # Hi, I'm Bharath! 👋
 
 ## 🚀 About Me
-I'm a full stack developer, My tech stack is mostly MERN. I also write smart contracts and am actively getting into web3.
+I'm a full stack blockchain dev, I'm good with the MERN stack, and also write smart contracts. Let's talk abut Web3. 
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React,js, MongoDB, Express, Node.js, Solidity, Ethers.js
